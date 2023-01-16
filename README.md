@@ -1,2 +1,3 @@
 # FreeCodeCamp_Projects-Certifications
-Projects made exclusivly with FreeCodeCamp showcasing what I have learned from Responsive Web Design,  to Machine Learning with Python.
+Showcasing what I have learned with FreeCodeCamp. I would like to add projects both new and old,
+showing what I have learned. From Responsive Web Design to Information Security.
